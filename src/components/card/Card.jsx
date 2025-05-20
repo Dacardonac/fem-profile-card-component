@@ -7,7 +7,7 @@ const Card = () => {
       <figure className={styles['card__avatar']}>
         <img
           className={styles['card__avatar-img']}
-          src="/src/images/image-victor.webp"
+          src="/images/image-victor.webp"
           alt="Victor Avatar Photo"
         />
       </figure>
