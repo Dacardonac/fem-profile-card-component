@@ -48,8 +48,8 @@ Mobile 🤳
 
 ### Links 📍
 
-- Solution URL: **[Frontend Mentor Solution 👨‍💻]()**
-- Live Site URL: **[Solution Deploy in Vercel 🚀]()**
+- Solution URL: **[Frontend Mentor Solution 👨‍💻](https://www.frontendmentor.io/solutions/profile-card-component-with-react-4N4I6_L8IF)**
+- Live Site URL: **[Solution Deploy in Vercel 🚀](https://fem-profile-card-component-two.vercel.app/)**
 
 ### How to Use the Project 💻
 
